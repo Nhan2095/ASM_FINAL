@@ -160,9 +160,19 @@ h4.title_left {
 .a1{
     margin-left: 10px;
     color: #222;
+    display: block;
+}
+.a1:hover{
+    display: block;
+    color: #FF4500;
 }
 .a2 li a{
     color: #333;
+    display: block;
+}
+.a2 li a:hover{
+    color:#FF4500 ;
+    display: block;
 }
 .col_item .ddsmoothmenu {
     padding: 0;
