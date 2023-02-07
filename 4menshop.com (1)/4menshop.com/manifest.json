@@ -1,0 +1,26 @@
+{
+  "short_name": "4MEN SHOP",
+  "name": "4MENSHOP.COM",
+  "icons": [
+  	{
+      "src": "./images/4men-144x144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, 
+    {
+      "src": "./images/4men-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/4men-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/service-worker/index.html",
+  "scope": "/",
+  "background_color": "#db2100",
+  "display": "standalone",
+  "theme_color": "#db2100"
+}
